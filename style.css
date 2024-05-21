@@ -1,0 +1,39 @@
+body{
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color:aliceblue;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(13, 5, 172);
+    background: linear-gradient(90deg, rgb(8, 6, 58) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#cal input {
+    margin: 10px;
+    border: none;
+    border-bottom: 1px solid cyan;
+    font-size: 30px;
+    box-sizing: border-box;
+    outline: none;
+}
+#sum{
+    margin: 50px;
+    font-family: AngsanaUPC, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 55px;
+
+}
+
+#cal {
+    display: block;
+    position:inherit;
+    margin: auto;
+    padding: 5rem;
+
+    width: 45%;
+    height: 80%;
+    background-color: aliceblue;
+    color: darkblue;
+    font-family: AngsanaUPC, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+}
